@@ -42,7 +42,7 @@ Follow any on-screen instructions provided by `main.sh`.
 If `warp-key-generator.py` has external dependencies, install them. Use the provided `requirements.txt` file or follow specific instructions in the repository:
 
 ```bash
-pip install -r requirements.txt
+pip install httpx
 ```
 
 Use `pip3` if needed for Python 3 installations.
