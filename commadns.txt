@@ -1,0 +1,4 @@
+1:  chmod +x main.sh
+2:  chmod +x warp-go
+3:  chmod +x warp-api
+4:  bash main.sh
